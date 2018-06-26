@@ -17,9 +17,3 @@ Code2Go is an app developed and owned by Jonathan VdC. The author of this projec
 The Project provides files that can be imported within the application. The author has tried to ensure it works correctly. But the author does not gurantee the working of the application. You should use the addon files at your own risk.
 
 This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software. For more details see the license file.
-
-# Terms Used
-
- 1. Application - Code2Go application
- 2. Project - GitHub project of Language-packs-for-Code2Go
- 3. Author - Contributors of the GitHub project mentioned above
