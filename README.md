@@ -1,18 +1,14 @@
+# About our Project
+
+The Code2Go application for Windows Phones comes with a limited number of predefined languages. But it allows you to add highlighting and formatting support for additional languages. We are providing language packs that can be imported in this application. With these language packs you can enhance the usage of this application.
+
+**URL :** https://github.com/kolappannathan/Language-packs-for-Code2Go
+
 # About Code2Go
 
 Code2Go is a code editting application for Windows mobiles. Code2Go is developed and owned by Jonathan VdC. You can find the application in the Microsoft store.
 
 **Store URL :** https://www.microsoft.com/en-US/store/Apps/Code2Go/9WZDNCRDMJFL
-
-# About our Project
-
-The Code2Go application comes with a limited number of predefined languages. But it allows you to add highlighting and formatting support for additional languages. We are providing language packs that can be imported in this application. With these language packs you can enhance the usage of this application.
-
-**URL :** https://github.com/kolappannathan/Language-packs-for-Code2Go
-
-# Contributors
- 1. Kolappan Nathan.
-Kolappan is a Software Engineer. You can find more about him in his blog - http://kolappannathan.blogspot.in/
 
 # Disclaimer
 
