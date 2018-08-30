@@ -2,7 +2,7 @@
 
 The Code2Go application for Windows Phones comes with a limited number of predefined languages. But it allows you to add highlighting and formatting support for additional languages. We are providing language packs that can be imported in this application. With these language packs you can enhance the usage of this application.
 
-**URL :** https://github.com/kolappannathan/Language-packs-for-Code2Go
+**URL :** https://kolappannathan.github.io/projects/language-packs-for-code2go/index.html
 
 # About Code2Go
 
