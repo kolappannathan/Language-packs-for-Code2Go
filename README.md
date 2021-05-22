@@ -1,4 +1,4 @@
-# About Project
+# Language packs for Code2Go
 
 ***This project is archieved. There is no ongoing development or maintanence. The reposiroty is kept as readonly for reference purposes.***
 
