@@ -1,18 +1,31 @@
 # About Project
 
-***This project is archieved. There is no ongoing development. The reposiroty is kept as readonly for reference purposes.***
+***This project is archieved. There is no ongoing development or maintanence. The reposiroty is kept as readonly for reference purposes.***
 
-The Code2Go application for Windows Phones comes with a limited number of predefined languages. But it allows you to add highlighting and formatting support for additional languages. We are providing language packs that can be imported in this application. With these language packs you can enhance the usage of this application.
+The Code2Go code editor for Windows Phones comes with support for a limited number of predefined languages. But it allows you to add highlighting and formatting support for additional languages. This repo contains such language packs I created that can be imported in this application. With these language packs you can enhance the usage of this application.
 
-**URL :** https://kolappan.dev/project/code2go-lang-packs
+### Supported Languages
+ - Java
+ - Python
+ - C++
+ - HTML
+ - Visual Basic
 
-# About Code2Go
+### Usage
+ 1. Copy the .cgi file to your phone.
+ 2. Open the Code2Go app. In the home screen you will see an option to Import package.
+ 3. Click on Import package button.
+ 4. Now browse the location of the .cgi file.
+ 5. Select that file and click open.
+ 6. The new language pack will be added to Code2Go.
+
+### About Code2Go
 
 Code2Go is a code editting application for Windows mobiles. Code2Go is developed and owned by Jonathan VdC. You can find the application in the Microsoft store.
 
 **Store URL :** https://www.microsoft.com/en-US/store/Apps/Code2Go/9WZDNCRDMJFL
 
-# Disclaimer
+### Disclaimer
 
 Code2Go is an app developed and owned by Jonathan VdC. The author of this project haa no copyright over the application.
 
